@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Aashirya Varma and I am a rising junior.
 
 <!--
 **aashiryav/aashiryav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
